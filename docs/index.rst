@@ -24,7 +24,7 @@ Installation
 Dependencies
 ------------
 
--  watson.html
+-  watson-html
 
 Testing
 -------

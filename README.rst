@@ -19,7 +19,7 @@ Installation
 Dependencies
 ------------
 
--  watson.html
+-  watson-html
 
 .. |Build Status| image:: https://api.travis-ci.org/Bespohk/watson-filters.png?branch=master
    :target: https://travis-ci.org/Bespohk/watson-filters
