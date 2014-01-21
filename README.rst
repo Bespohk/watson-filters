@@ -19,6 +19,8 @@ Installation
 Dependencies
 ------------
 
+-  watson.html
+
 .. |Build Status| image:: https://api.travis-ci.org/Bespohk/watson-filters.png?branch=master
    :target: https://travis-ci.org/Bespohk/watson-filters
 .. |Coverage Status| image:: https://coveralls.io/repos/bespohk/watson-filters/badge.png

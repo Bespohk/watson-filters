@@ -21,6 +21,11 @@ Installation
 
 ``pip install watson-filters``
 
+Dependencies
+------------
+
+-  watson.html
+
 Testing
 -------
 
