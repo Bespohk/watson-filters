@@ -14,15 +14,7 @@ Modify and convert values into something else.
 Build Status
 ------------
 
-+-----------+------------------+---------------------+
-| Branch    | Status           | Coverage            |
-+===========+==================+=====================+
-| Master    | |Build StatusM|  | |Coverage Status|   |
-+-----------+------------------+---------------------+
-| Develop   | |Build StatusD|  |                     |
-+-----------+------------------+---------------------+
-
-|Pypi|
+|Build Status| |Coverage Status| |Pypi|
 
 Installation
 ------------
@@ -46,11 +38,9 @@ Table of Contents
 
 .. include:: toc.rst.inc
 
+.. |Build Status| image:: https://api.travis-ci.org/Bespohk/watson-filters.png?branch=master
+   :target: https://travis-ci.org/Bespohk/watson-filters
 .. |Coverage Status| image:: https://coveralls.io/repos/bespohk/watson-filters/badge.png
    :target: https://coveralls.io/r/bespohk/watson-filters
-.. |Build StatusD| image:: https://api.travis-ci.org/bespohk/watson-filters.png?branch=develop
-   :target: https://travis-ci.org/bespohk/watson-filters
-.. |Build StatusM| image:: https://api.travis-ci.org/bespohk/watson-filters.png?branch=master
-   :target: https://travis-ci.org/bespohk/watson-filters
 .. |Pypi| image:: https://pypip.in/v/watson-filters/badge.png
    :target: https://crate.io/packages/watson-filters/

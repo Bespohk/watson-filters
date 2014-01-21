@@ -19,8 +19,8 @@ Installation
 Dependencies
 ------------
 
-.. |Build Status| image:: https://api.travis-ci.org/bespohk/watson-filters.png?branch=master
-   :target: https://travis-ci.org/bespohk/watson-filters
+.. |Build Status| image:: https://api.travis-ci.org/Bespohk/watson-filters.png?branch=master
+   :target: https://travis-ci.org/Bespohk/watson-filters
 .. |Coverage Status| image:: https://coveralls.io/repos/bespohk/watson-filters/badge.png
    :target: https://coveralls.io/r/bespohk/watson-filters
 .. |Pypi| image:: https://pypip.in/v/watson-filters/badge.png
