@@ -64,7 +64,7 @@ with open(os.path.join(path, 'requirements.txt')) as f:
 setup(
     name='watson-filters',
     version=watson.filters.__version__,
-    url='http://github.com/bespohk/watson-filters',
+    url='http://github.com/watsonpy/watson-filters',
     description='Modify and convert values into something else.',
     long_description=readme,
 

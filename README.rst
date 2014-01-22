@@ -21,10 +21,10 @@ Dependencies
 
 -  watson-html
 
-.. |Build Status| image:: https://api.travis-ci.org/Bespohk/watson-filters.png?branch=master
-   :target: https://travis-ci.org/Bespohk/watson-filters
-.. |Coverage Status| image:: https://coveralls.io/repos/bespohk/watson-filters/badge.png
-   :target: https://coveralls.io/r/bespohk/watson-filters
+.. |Build Status| image:: https://api.travis-ci.org/watsonpy/watson-filters.png?branch=master
+   :target: https://travis-ci.org/watsonpy/watson-filters
+.. |Coverage Status| image:: https://coveralls.io/repos/watsonpy/watson-filters/badge.png
+   :target: https://coveralls.io/r/watsonpy/watson-filters
 .. |Version| image:: https://pypip.in/v/watson-filters/badge.png
    :target: https://pypi.python.org/pypi/watson-filters/
 .. |Downloads| image:: https://pypip.in/d/watson-filters/badge.png
