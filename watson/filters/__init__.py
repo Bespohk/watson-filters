@@ -15,5 +15,5 @@ try:
         'StripTags',
         'HtmlEntities',
         'Date']
-except:
-    pass
+except:  # pragma: no cover
+    pass  # pragma: no cover

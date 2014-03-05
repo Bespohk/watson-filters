@@ -10,6 +10,10 @@ class TestTrim(object):
         assert filter(' Test') == 'Test'
         assert filter('Test') == 'Test'
 
+    def test_trim_none(self):
+        filter = Trim()
+        assert not filter(None)
+
 
 class TestUpper(object):
 
