@@ -1,2 +1,2 @@
 sphinxcontrib-napoleon
-watson-html == 1.0.0
+watson-html >= 1.0.0
