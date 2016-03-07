@@ -25,9 +25,9 @@ Dependencies
    :target: https://travis-ci.org/watsonpy/watson-filters
 .. |Coverage Status| image:: https://coveralls.io/repos/watsonpy/watson-filters/badge.png
    :target: https://coveralls.io/r/watsonpy/watson-filters
-.. |Version| image:: https://pypip.in/v/watson-filters/badge.png
+.. |Version| image:: http://badge.kloud51.com/pypi/v/watson-filters.png
    :target: https://pypi.python.org/pypi/watson-filters/
-.. |Downloads| image:: https://pypip.in/d/watson-filters/badge.png
+.. |Downloads| image:: http://badge.kloud51.com/pypi/d/watson-filters.png
    :target: https://pypi.python.org/pypi/watson-filters/
-.. |Licence| image:: https://pypip.in/license/watson-filters/badge.png
+.. |Licence| image:: http://badge.kloud51.com/pypi/license/watson-filters.png
    :target: https://pypi.python.org/pypi/watson-filters/
