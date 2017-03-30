@@ -83,6 +83,8 @@ class RegEx(abc.Filter):
         Returns:
             The value with replaced contents.
         """
+        if not value:
+            return value
         return re.sub(self.regex, self.replacement, value)
 
 
